@@ -13,6 +13,7 @@ namespace Meus_Produtos.Controllers
     [Route("[controller]")]
     public class PersonController : ControllerBase
     {
+        //Dependency injection
         private IPersonService _personService;
 
         private readonly ILogger<PersonController> _logger;

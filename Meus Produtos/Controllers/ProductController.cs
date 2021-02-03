@@ -15,6 +15,7 @@ namespace Meus_Produtos.Controllers
     [Route("[controller]")]
     public class ProductController : ControllerBase
     {
+        //Dependency injection
         private IProductService _productService;
 
         private readonly ILogger<ProductController> _logger;
@@ -28,7 +29,7 @@ namespace Meus_Produtos.Controllers
         [HttpGet]
         public ActionResult GetAllProducts()
         {
-            //This return will check in the DB all persons and return an Object with all person objects
+            //This return will check in the DB all products and return an Object with all product objects
             return Ok(_productService.FindAll());
         }
 
@@ -36,31 +37,31 @@ namespace Meus_Produtos.Controllers
         public IActionResult GetProductById(long param)
         {
             long Id = param;
-            //Get Person and save in a variable 
-            var person = _productService.FindById(Id);
+            //Get product and save in a variable 
+            var product = _productService.FindById(Id);
 
-            //Check if .this person exists if !exists then return an 404 not found
-            if (person == null) return NotFound();
+            //Check if .this product exists if !exists then return an 404 not found
+            if (product == null) return NotFound();
 
-            //If the person with the specifield id exists then will return all the data from the DB in an single object
-            return Ok(person);
+            //If the product with the specifield id exists then will return all the data from the DB in an single object
+            return Ok(product);
         }
 
         [HttpPost]
         public IActionResult CreateProduct([FromBody] Product product)
         {
-            //If the person object !exists then will return an BadRequest 
+            //If the product object !exists then will return an BadRequest 
             if (product == null) return BadRequest();
-            //If all person data is ok then will create an new person and save in the DB
+            //If all product data is ok then will create an new product and save in the DB
             return Ok(_productService.Create(product));
         }
 
         [HttpPut]
         public IActionResult UpdateProduct([FromBody] Product product)
         {
-            //If the person object !exists then will return an BadRequest 
+            //If the product object !exists then will return an BadRequest 
             if (product == null) return BadRequest();
-            //If all person data is ok then will Update person and save in the DB
+            //If all product data is ok then will Update product and save in the DB
             return Ok(_productService.Update(product));
         }
 
@@ -69,10 +70,10 @@ namespace Meus_Produtos.Controllers
         public IActionResult DeleteProductById(long param)
         {
             long id = param;
-            //Get Person and save in a variable 
+            //Get product and save in a variable 
             _productService.Delete(id);
 
-            //If the person with the specifield id exists then will return all the data from the DB in an single object
+            //If the product with the specifield id exists then will return all the data from the DB in an single object
             return NoContent();
         }
     }

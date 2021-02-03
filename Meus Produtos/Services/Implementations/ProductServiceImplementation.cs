@@ -79,7 +79,7 @@ namespace Meus_Produtos.Services.Implementations
 
         private bool Exists(long id)
         {
-            return _context.Persons.Any(p => p.Id.Equals(id));
+            return _context.Products.Any(p => p.Id.Equals(id));
         }
     }
 }
