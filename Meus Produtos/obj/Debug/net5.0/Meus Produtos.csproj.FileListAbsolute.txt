@@ -1,0 +1,100 @@
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\appsettings.json
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.exe
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.deps.json
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.runtimeconfig.json
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.runtimeconfig.dev.json
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\ref\Meus Produtos.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.pdb
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.csprojAssemblyReference.cache
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.AssemblyInfoInputs.cache
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.AssemblyInfo.cs
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.csproj.CoreCompileInputs.cache
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\staticwebassets\Meus Produtos.StaticWebAssets.Manifest.cache
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\staticwebassets\Meus Produtos.StaticWebAssets.xml
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\scopedcss\bundle\Meus Produtos.styles.css
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.RazorTargetAssemblyInfo.cache
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.csproj.CopyComplete
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\ref\Meus Produtos.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.pdb
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.genruntimeconfig.cache
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Evolve.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\guifg\Documents\GitHub\MyProducts\Meus Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\appsettings.json
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.exe
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.deps.json
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.runtimeconfig.json
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.runtimeconfig.dev.json
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\ref\Meus Produtos.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Meus Produtos.pdb
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Evolve.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.csprojAssemblyReference.cache
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.AssemblyInfoInputs.cache
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.AssemblyInfo.cs
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.csproj.CoreCompileInputs.cache
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\staticwebassets\Meus Produtos.StaticWebAssets.Manifest.cache
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\staticwebassets\Meus Produtos.StaticWebAssets.xml
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\scopedcss\bundle\Meus Produtos.styles.css
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.RazorTargetAssemblyInfo.cache
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.csproj.CopyComplete
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\ref\Meus Produtos.dll
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.pdb
+C:\Users\guifg\Documents\GitHub\Meus-Produtos\Meus Produtos\obj\Debug\net5.0\Meus Produtos.genruntimeconfig.cache
