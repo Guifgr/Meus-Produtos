@@ -1,0 +1,10 @@
+insert into product (product_id, product_name, product_price, product_is_active) values (1, 'Pepper - Chili Powder', '91529.86', false);
+insert into product (product_id, product_name, product_price, product_is_active) values (2, 'Oyster - In Shell', '23186.87', true);
+insert into product (product_id, product_name, product_price, product_is_active) values (3, 'Rice - Wild', '49191.05', false);
+insert into product (product_id, product_name, product_price, product_is_active) values (4, 'Wine - White, Antinore Orvieto', '2026.12', false);
+insert into product (product_id, product_name, product_price, product_is_active) values (5, 'Creme De Menth - White', '66376.24', true);
+insert into product (product_id, product_name, product_price, product_is_active) values (6, 'Lemonade - Kiwi, 591 Ml', '96349.96', false);
+insert into product (product_id, product_name, product_price, product_is_active) values (7, 'Port - 74 Brights', '17643.50', false);
+insert into product (product_id, product_name, product_price, product_is_active) values (8, 'Bread - Raisin', '16481.36', true);
+insert into product (product_id, product_name, product_price, product_is_active) values (9, 'Vegetable - Base', '62826.76', true);
+insert into product (product_id, product_name, product_price, product_is_active) values (10, 'Cumin - Ground', '28086.04', true);
